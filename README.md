@@ -6,7 +6,7 @@
 - 🩰 Bailarina
 - 😊 Pronouns : ela/dela
 - 🪐 Por um mundo mais digital
-- 💭Me pergunte sobre qualquer coisa! Se eu não souber, podemos aprender juntos! 
+- 💭 Vamos aprender juntos? 
  <br> 
 
 
