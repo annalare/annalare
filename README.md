@@ -1,7 +1,7 @@
 # Hi there 👋
   <img align="right" alt="GIF" src="https://i.picasion.com/pic92/987dd64e9f2010349c1dc300a34b404d.gif" width="250" height="250" border="0" alt="https://picasion.com/" />
 
-- 👩‍💻 Web Developer em formação
+- 👩‍💻 Front-End Developer em formação
 - 💡 Estudante de Engenharia Eletrônica
 - 🩰 Bailarina
 - 😊 Pronouns : ela/dela
