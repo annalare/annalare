@@ -1,4 +1,4 @@
-# Heeeeey!!! 👋
+# Heeeey!!! 👋
   <img align="right" alt="GIF" src="https://i.picasion.com/pic92/987dd64e9f2010349c1dc300a34b404d.gif" width="250" height="250" border="0" alt="https://picasion.com/" />
 
 - 👩‍💻 Front-End Developer em formação
@@ -6,7 +6,7 @@
 - 🩰 Bailarina
 - 😊 Pronouns : ela/dela
 - 🪐 Por um mundo mais digital
-- 💭 Vamos aprender juntos?? 
+- 💭 Vamos aprender juntos?
  <br> 
 
 
