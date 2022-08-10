@@ -1,5 +1,5 @@
 # Heeey!!! 👋
-  <img align="right" alt="GIF" src="https://i.picasion.com/pic92/987dd64e9f2010349c1dc300a34b404d.gif" width="180" height="180" border="0" alt="https://picasion.com/" /><br>
+  <img align="center" alt="GIF" src="https://i.picasion.com/pic92/987dd64e9f2010349c1dc300a34b404d.gif" width="180" height="180" border="0" alt="https://picasion.com/" /><br>
 
 - 👩‍💻 Front-End Developer em formação
 - 💡 Estudante de Engenharia Eletrônica
