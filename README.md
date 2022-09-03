@@ -5,7 +5,7 @@
 - 💡 Estudante de Engenharia Eletrônica
 - 🩰 Bailarina
 - 😊 Pronouns : ela/dela
-- 🪐 Por um mundo mais digital
+- 🪐 Por um mundo mais digital!
 - 💭 Vamos aprender juntos?
  <br> 
 
