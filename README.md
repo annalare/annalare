@@ -2,7 +2,7 @@
   <img align="right" alt="GIF" src="https://i.picasion.com/pic92/987dd64e9f2010349c1dc300a34b404d.gif" width="180" height="180" border="0" alt="https://picasion.com/" /><br>
 
 - 👩‍💻 Front-End Developer 
-- 💡 Estudante de Engenharia Eletrônica
+- 💡 Estudante de Análise de Desenvolvimento de Sistemas
 - 🩰 Bailarina
 - 😊 Pronouns : ela/dela
 - 🪐 Por um mundo mais digital!
