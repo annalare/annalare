@@ -4,7 +4,6 @@
 - 👩‍💻 Desenvolvedora de Software
 - 💡 Estudante de Sistemas de Informação na FIAP
 - 🩰 Bailarina
-- 🪐 Por um mundo mais digital!
 - 💭 Vamos aprender juntos?
  <br> 
 
