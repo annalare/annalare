@@ -5,6 +5,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-annalare-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annalare/)
 [![GitHub followers](https://img.shields.io/github/followers/annalare?style=flat-square&color=6e40c9&label=followers&logo=github)](https://github.com/annalare)
 
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D6CF7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Building+from+Recife%2C+PE+%F0%9F%8C%B4;React+%C2%B7+TypeScript+%C2%B7+.NET+%C2%B7+Mobile;always+learning+%C2%B7+always+building)](https://git.io/typing-svg)
 
 </div>
 
@@ -71,14 +74,17 @@ const larissa = {
 &nbsp;&nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annalare&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
+<br/><br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=annalare&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
+
 <br/>
 
-![Snake animation](https://raw.githubusercontent.com/annalare/annalare/output/github-contribution-grid-snake-dark.svg)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annalare&theme=tokyo-night&hide_border=true&area=true&area_color=9D6CF7&color=9D6CF7&line=6e40c9&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
-
 
 ## ✨ Sobre · About
 
