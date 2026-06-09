@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-annalare-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/annalare/)
 [![GitHub followers](https://img.shields.io/github/followers/annalare?style=flat-square&color=6e40c9&label=followers&logo=github)](https://github.com/annalare)
-![Recife](https://img.shields.io/badge/📍_Recife-PE,_Brasil-c678dd?style=flat-square)
+
 
 </div>
 
@@ -79,18 +79,6 @@ const larissa = {
 
 ---
 
-## 🎓 Formação · Education
-
-<div align="center">
-
-| 🎓 | |
-|:---:|---|
-| **Sistemas de Informação** | FIAP · *(em andamento / ongoing)* |
-| **Cursos & Certificações** | React · .NET · Mobile · Cloud · UX · Cybersecurity |
-
-</div>
-
----
 
 ## ✨ Sobre · About
 
