@@ -92,16 +92,11 @@ const larissa = {
 ## ✨ About · Sobre
 
 ```
-⚡ I build web portals, mobile apps, and cloud infra by day
-🌿 I pour candles and create scented moments by night → @sentvelasaromaticas
+⚡ I build web portals, mobile apps,platforms and games by day
 🌙 Capricorn sun · Aries rising · Libra moon
 📍 From Recife, PE — the city that invented frevo and never stops moving
 ```
 
 ---
 
-<div align="center">
 
-*Made with intention, from the Northeast of Brazil 🌊*
-
-</div>
