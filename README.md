@@ -78,9 +78,6 @@ const larissa = {
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=annalare&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D&locale=pt_BR)](https://git.io/streak-stats)
 
-<br/>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=annalare&theme=tokyo-night&hide_border=true&area=true&area_color=9D6CF7&color=9D6CF7&line=6e40c9&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
